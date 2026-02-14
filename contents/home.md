@@ -2,16 +2,15 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+他是一名专注于城市经济学研究的博士，主要研究历史上中国城市的空间结构、人力资本等的变迁。熟练运用实证方法分析，结合Python、Stata与GIS进行数据处理与可视化。他致力于揭示城市发展规律，探索制度与空间的路径依赖效应，并希望将研究成果应用于政策制定，推动可持续城市发展与高质量城市生活。
 
-#### Contact
+#### 联系方式
 
-Email: senli[at]fas.harvard.edu
+Email: ecozhenyulin@gmail.com
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+#### 教育经历
+学士, 经济学（创新）, 浙江工商大学, 2018—2022.\
+博士（硕博连读）, 城市经济与管理, 上海财经大学, 2022—2027.
 
-#### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
-
+#### 研究兴趣
+城市经济学，发展经济学，量化经济史，微观应用计量经济学
