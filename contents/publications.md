@@ -21,3 +21,9 @@
 - <strong>Lin, Z.</strong>, & Yang, H. (2026). Hidden Corners: The Legacy of Historical Underground Water Pipeline Expansion in Qingdao. <em>Working paper</em>.
 
 - <strong>Lin, Z.</strong>, & Yang, H. (2026). Rusting Medals: The Spatial Legacy of <em>Workers’ New Villages</em> and the Persistent Effects of Urban Planning in Shanghai. <em>Working paper</em>.
+
+#### Work in Progress
+
+- <strong>林振宇</strong>, & 曹伟. (2026). 铅火光电：印刷业创造性毁灭与人力资本发展. <em>Work in Progress</em>.
+
+- Chen, N., & <strong>Lin, Z.</strong>. (2026). Scarcity Breeds Conservatism：Early-Life Famine Exposure and LGFV Bond Credit Spreads. <em>Work in Progress</em>.
